@@ -93,7 +93,6 @@ int main() {
             break;
         }
         case 8: {
-            // Implement view available stock functionality here
             break;
         }
         case 9:
